@@ -1,29 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Ocean Gliders"
 date:   2025-04-18 06:10:59 +0000
-categories: jekyll update
+categories: Glider
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+![Alt text](/assets/images/image.png)
 
-Jekyll requires blog post files to be named according to the following format:
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+An ocean glider is an autonomous, unmanned underwater vehicle used for ocean science. Since gliders require little or no human assistance while traveling, these little robots are uniquely suited for collecting data in remote locations, safely and at relatively low cost.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Gliders may be equipped with a wide variety of sensors to monitor temperature, salinity, currents, and other ocean conditions. This information creates a more complete picture of what is happening in the ocean, as well as trends scientists might not otherwise be able to detect from satellites or large research ships.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out the [Ocean-Glider] for more info. 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Ocean-Glider]: https://oceanservice.noaa.gov/facts/ocean-gliders.html
